@@ -765,9 +765,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@liveqing/liveplayer@2.1.7":
-  version "2.1.7"
-  resolved "https://registry.yarnpkg.com/@liveqing/liveplayer/-/liveplayer-2.1.7.tgz#ca3ecf973e01af59a9d6e051e455f63f36aeff24"
+"@liveqing/liveplayer@2.3.2":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@liveqing/liveplayer/-/liveplayer-2.3.2.tgz#73b67c2bb97cf60e4556b93e18a2b579d6778c3c"
+  integrity sha512-tlKjy+no1DP5sx/Uk9xgKQkUNnDkhPq5rublv4Aot3ZFyuG2xl9cxxIKLu1H4PexDXd3qYNGPos+58VUNgeWTg==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"

@@ -7,8 +7,10 @@
     <div style="width:512px;height:300px;margin:auto" class="palyer2">
         <!-- 用 http://localhost:8080 访问demo可以播放下面的flv -->
         <LivePlayer  @snapOutside="snapOutside" ref="player2" videoUrl="http://localhost:8080/video.flv" live />
+
     </div>
 
+  <LivePlayer  @snapOutside="snapOutside" ref="player2" videoUrl="https://ibms.vann.com.cn/preview?port=1935&app=preview&stream=999ed042db8e49419557891ccfcca600" live />
     <h1>{{ msg }}</h1>
     <h3>相关说明</h3>
     <ul>
